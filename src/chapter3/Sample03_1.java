@@ -1,4 +1,6 @@
-public class Sample {
+package chapter3;
+
+public class Sample03_1 {
     public static void main(String[] args) {
         // 숫자 연산
         int a = 10;
