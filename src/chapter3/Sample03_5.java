@@ -2,6 +2,7 @@ package chapter3;
 
 public class Sample03_5 {
     public static void main(String[] args) {
+        // StringBuffer
 
 //        StringBuffer sb = new StringBuffer();
 //        sb.append("hello");
