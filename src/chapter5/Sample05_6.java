@@ -8,13 +8,13 @@ package chapter5;
 //        this.name = name;
 //    }
 //}
-//
+
 //class Dog extends Animal {
 //    void sleep() {
 //        System.out.println(this.name + " zzz");
 //    }
 //}
-//
+
 //class HouseDog extends Dog {
 //    HouseDog(String name) {
 //        this.setName(name);
@@ -26,11 +26,11 @@ package chapter5;
 //            this.setName("bulldog");
 //        }
 //    }
-//
+
 //    void sleep() {
 //        System.out.println(this.name + " zzz in house");
 //    }
-//
+
 //    void  sleep(int hour) {
 //        System.out.println(this.name + " zzz in house for" + hour + " hours");
 //    }
@@ -43,5 +43,6 @@ public class Sample05_6 {
 //        HouseDog yorkshire = new HouseDog(1);
 //        System.out.println(happy.name); // happy 출력
 //        System.out.println(yorkshire.name); // yorkshire 출력
+
     }
 }

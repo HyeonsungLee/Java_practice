@@ -4,10 +4,10 @@ package chapter5;
 interface Predator {
     String getFood();
 
-    default void printFood() {
-        System.out.printf("my food is %s\n", getFood());
-    }
-}
+//    default void printFood() {
+//        System.out.printf("my food is %s\n", getFood());
+//    }
+//}
 class Animal {
     String name;
 
