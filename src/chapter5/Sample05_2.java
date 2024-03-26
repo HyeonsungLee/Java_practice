@@ -1,5 +1,7 @@
 package chapter5;
 
+// 클래스
+
 class Animal{
     String name;
 
