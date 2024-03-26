@@ -2,13 +2,13 @@ package chapter5;
 
 // 클래스
 
-class Animal{
-    String name;
+//class Animal{
+//    String name;
 
-    public void setName(String name) {
-        this.name = name;
-    }
-}
+//    public void setName(String name) {
+//        this.name = name;
+//    }
+//}
 
 
 public class Sample05_2 {
